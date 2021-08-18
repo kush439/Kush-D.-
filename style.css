@@ -1,0 +1,37 @@
+.main_div{
+background: powderblue;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid white;
+}
+.main_div label{
+    background: white;
+    width: 310px ;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 18px white;
+    }
+    body{
+    color: blue;
+    font-family:'Special Elite',cursive;
+    }
+.header_div{
+    background: white;
+    color: red;
+    }
+#camera{
+    border: 2px dashed black;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.header_div img{
+width: 100px ;
+}
+.main_div button{
+    background: white;
+    width: 310px ;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+  border: 1px solid;    
+}
